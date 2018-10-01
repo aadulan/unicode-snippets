@@ -1,1 +1,1 @@
-# ascii-snippets
+# curated unicode snippets
